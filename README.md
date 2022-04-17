@@ -26,7 +26,7 @@ for faction identifier, and three characters for card number.
 
 The deck code library accepts a Legends of Runeterra deck as a list of
 `CardCodeAndCount` objects. This is simply the code and an associated integer
-for the number of occurences of the card in the deck.
+for the number of occurrences of the card in the deck.
 
 ## Process
 
